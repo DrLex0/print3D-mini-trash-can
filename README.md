@@ -60,6 +60,9 @@ Migrated to GitHub.
 ### 2022/07/10: lid v3, added Blender source file
 The lid now has a bit of extra clearance to prevent it from scraping against the trash can while opening. Added lids without logo.
 
+### 2025/07/17: v4
+Small tweak to the lid shape to make it slightly thicker and easier to print, and made the built-in supports thinner for easier removal. Flattened top rim of trashcan for cleaner print.
+
 
 ## Tags
 `3D-Fuel`, `3DFuel`, `Garbage`, `prop`, `recycle`, `Trash`, `trash_can`, `wheelie_bins`, `wheels`
