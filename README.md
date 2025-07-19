@@ -17,7 +17,7 @@ This is a remix of 3D-Fuel's Mini trash can ([Thingiverse thing:1902152](https:/
 I like the 3D-Fuel [Mini trash can](http://www.thingiverse.com/thing:1902152), but it lacks something. Moving wheels! I therefore remixed it so now it is exactly like the real thing.
 I also slightly increased the inside volume for that little bit of extra trash capacity.
 
-The wheels come in two variants. If you have a hard time making the regular wheels spin, try the ‘widerHole’ ones. Of course reaming the hole will help as well (I have found the inside measuring prongs of a caliper to work well for this, and it allows to immediately see how much wider you have made the hole.)
+The wheels come in two variants. If you have a hard time making the regular wheels spin, try the ‘widerHole’ ones. Of course reaming the hole will help as well (I have found the inside measuring prongs of a caliper to work well for this, and it allows to immediately see how much wider you have made the hole.) If you print the wheels in TPU, you will likely need the wider hole variant.
 
 Another change w.r.t. the original model is that the lid is hollow (again, more like the real thing). This makes it slightly more difficult to print, but the hollow lid is lighter, hence reduces the risk that the bin will topple over with its lid open. It also provides a wee bit of extra room to pile up junk! The solid lid from the [original model](https://www.thingiverse.com/thing:1902152) will of course still fit and may be easier to print, but it can be difficult to remove from your platform due to the enormous contact surface.
 
@@ -60,8 +60,8 @@ Migrated to GitHub.
 ### 2022/07/10: lid v3, added Blender source file
 The lid now has a bit of extra clearance to prevent it from scraping against the trash can while opening. Added lids without logo.
 
-### 2025/07/17: v4
-Small tweak to the lid shape to make it slightly thicker and easier to print, and made the built-in supports thinner for easier removal. Flattened top rim of trashcan for cleaner print.
+### 2025/07/19: v4
+Small tweak to the lid shape to make it slightly thicker and easier to print, and made the built-in supports thinner for easier removal. Flattened top rim of trashcan for cleaner print. Further increased tolerances on wider hole wheel.
 
 
 ## Tags
